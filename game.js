@@ -3,7 +3,7 @@ let context = canvas.getContext("2d");
 
 const BALL_COLOR = "#e0e0e0";
 const BALL_SIZE = 10;
-const PADDLE_COLOR = "e0e0e0";
+const PADDLE_COLOR = "#e0e0e0";
 const PADDLE_WIDTH = 15;
 const PADDLE_HEIGHT = 120;
 const PLAYER_PADDLE_DY = 6;
